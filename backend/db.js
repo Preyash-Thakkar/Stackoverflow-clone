@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const url = "mongodb+srv://preyash:thakkar@cluster0.xebyv1r.mongodb.net/your-database-name";
+const url = "mongodb+srv://preyash:thakkar@cluster0.xebyv1r.mongodb.net/stack-database";
 
 module.exports.connect = () => {
   mongoose
