@@ -12,14 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akkySrivastava/stackoverflow-clone-mern.git"
+    "url": "https://github.com/Preyash-Thakkar/stackoverflow-clone"
   },
-  "author": "Code with akky",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/akkySrivastava/stackoverflow-clone-mern/issues"
-  },
-  "homepage": "https://github.com/akkySrivastava/stackoverflow-clone-mern#readme",
+ 
+  "homepage": "https://github.com/Preyash-Thakkar/stackoverflow-clone/blob/development/Readme.md",
   "dependencies": {
     "axios": "^0.21.1",
     "body-parser": "^1.19.0",
